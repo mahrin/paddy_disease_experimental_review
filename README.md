@@ -1,8 +1,6 @@
-# paddy_disease_experimenal_review
+# Deep Learning-Based Models for Paddy Disease Classification and Segmentation: An Experimental Review
 
-Deep Learning-Based Models for Paddy Disease Classification and Segmentation: An Experimental Review
 
-Mask-based paddy disease segmentation dataset: [dataset link](https://github.com/mahrin/paddy_disease_experimental_review1/tree/main/segmentation/segmentation_dataset/segmentation_data43_resized_cropped_split)
 
 ![FIGURE 1. Illustrating (a) the framework for the research process, which encompasses the identification of related works, methodology, results, discussion,
 limitations and future work—and their branches, and (b) the process of identifying works related to paddy disease segmentation and classification (literature review,
@@ -13,11 +11,10 @@ limitations and future work—and their branches, and (b) the process of identif
 research gap identification, and analysis of selected classification and segmentation models.)*
 
 ## 📌 Segmentation
-
-- **Image processing-based mask creation codes:**  [segmentation/mask_creation_codes](segmentation/mask_creation_codes)
-
 - **Mask-based paddy disease segmentation dataset (new dataset):** 🆕  
   [segmentation/segmentation_dataset/segmentation_data43_resized_cropped_split](segmentation/segmentation_dataset/segmentation_data43_resized_cropped_split)
+
+- **Image processing-based mask creation codes:**  [segmentation/mask_creation_codes](segmentation/mask_creation_codes)
 
 - **Segmentation code for generation**  
   *(generated masks, confusion matrices, performance metrics — Loss, Accuracy, Precision, Recall, F1-Score, IoU — saved models/weights, pixel distribution plot, augmented image samples, model training history, learning plots)*:  
