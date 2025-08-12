@@ -18,7 +18,7 @@ research gap identification, and analysis of selected classification and segment
 
 ## 📌 Segmentation
 - **Mask-based paddy disease segmentation dataset (new dataset):** 🆕
-  [View dataset](segmentation/segmentation_dataset/segmentation_data43_resized_cropped_split)
+  [View dataset](segmentation/segmentation_dataset)
 
 - **Image processing-based mask creation codes:**  [View here](segmentation/mask_creation_codes)
 
