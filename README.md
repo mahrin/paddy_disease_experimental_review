@@ -1,6 +1,4 @@
-\# paddy\_disease\_experimenal\_review
-
-
+# paddy_disease_experimenal_review
 
 Deep Learning-Based Models for Paddy Disease Classification and Segmentation: An Experimental Review
 
