@@ -4,3 +4,4 @@ Deep Learning-Based Models for Paddy Disease Classification and Segmentation: An
 
 Mask-based paddy disease segmentation dataset: [dataset link](https://github.com/mahrin/paddy_disease_experimental_review1/tree/main/segmentation/segmentation_dataset/segmentation_data43_resized_cropped_split)
 
+![Layout of the article](paper_figures/paper_layout/paper_layout.jpg)
