@@ -48,3 +48,8 @@ research gap identification, and analysis of selected classification and segment
 - **Code for t-test based confidence interval analysis:** [View here](classification/t_test_from_AUC_code)
 
 - **Code for generating bar plots used in the article:** [View here](classification/bar_plots_code)
+
+---
+
+## 📈 Figures  
+Figures used in this article: [paper_figures](paper_figures)
