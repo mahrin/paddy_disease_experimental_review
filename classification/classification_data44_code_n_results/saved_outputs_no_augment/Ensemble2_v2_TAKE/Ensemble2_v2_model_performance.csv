@@ -1,0 +1,2 @@
+model_name,test_loss,test_accuracy,test_f1_score
+Ensemble2_v2,0.027141107246279716,1.0,1.0

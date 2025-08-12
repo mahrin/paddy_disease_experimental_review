@@ -1,0 +1,2 @@
+model_name,test_loss,test_accuracy,test_f1_score
+ensemble2,0.0021288255229592323,1.0,1.0

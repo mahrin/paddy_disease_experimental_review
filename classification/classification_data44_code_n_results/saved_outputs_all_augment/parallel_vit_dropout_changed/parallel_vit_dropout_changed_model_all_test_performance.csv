@@ -1,0 +1,2 @@
+Model Name,Accuracy,Macro Precision,Macro Recall,Macro F1-Score,Weighted Precision,Weighted Recall,Weighted F1-Score,Loss
+parallel_vit_dropout_changed,0.9991575400168492,0.9992690058479532,0.9990671641791045,0.9991666780695393,0.9991600033501332,0.9991575400168492,0.999157369406051,0.002687037456780672

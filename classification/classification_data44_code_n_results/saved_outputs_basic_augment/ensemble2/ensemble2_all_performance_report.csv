@@ -1,0 +1,16 @@
+,Metric Type,Value
+0,overall accuracy,1.0
+1,Macro Precision,1.0
+2,Macro Recall,1.0
+3,Macro F1-Score,1.0
+4,Macro FPR,0.0
+5,Macro FNR,0.0
+6,Macro FDR,0.0
+7,Macro NPV,1.0
+8,Weighted Precision,1.0
+9,Weighted Recall,1.0
+10,Weighted F1-Score,1.0
+11,Weighted FPR,0.0
+12,Weighted FNR,0.0
+13,Weighted FDR,0.0
+14,Weighted NPV,1.0

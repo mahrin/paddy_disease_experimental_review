@@ -1,0 +1,2 @@
+model_name,test_loss,test_accuracy,test_f1_score
+parallel_vit_dropout_changed,0.0026908761356025934,0.9991575479507446,0.9988280534744263

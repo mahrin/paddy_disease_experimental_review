@@ -1,0 +1,2 @@
+Model Name,Accuracy,Macro Precision,Macro Recall,Macro F1-Score,Weighted Precision,Weighted Recall,Weighted F1-Score,Loss
+ensemble2,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0021288255229592323

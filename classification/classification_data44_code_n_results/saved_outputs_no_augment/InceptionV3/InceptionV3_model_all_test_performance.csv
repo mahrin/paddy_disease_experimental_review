@@ -1,0 +1,2 @@
+Model Name,Accuracy,Macro Precision,Macro Recall,Macro F1-Score,Weighted Precision,Weighted Recall,Weighted F1-Score,Loss
+InceptionV3,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0006731164758093655
