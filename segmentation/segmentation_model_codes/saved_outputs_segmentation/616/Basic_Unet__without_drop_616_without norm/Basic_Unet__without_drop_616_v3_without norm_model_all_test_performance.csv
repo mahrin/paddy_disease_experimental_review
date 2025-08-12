@@ -1,0 +1,2 @@
+Model Name,Loss,Accuracy,Precision,Recall,F1-Score,IoU
+Basic_Unet__without_drop_616_v3_without norm,0.038873378187417984,0.9891675866168478,0.86372175308687,0.8424564,0.8529565,0.8061346
