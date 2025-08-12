@@ -1,0 +1,2 @@
+model_name,test_loss,test_accuracy,test_f1_score
+parallel_vit_ap01,0.24734142422676086,0.9371340274810791,0.91141676902771

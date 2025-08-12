@@ -1,0 +1,2 @@
+model_name,test_loss,test_accuracy,test_f1_score
+MobileNet_v4,0.6545207500457764,0.8246532678604126,0.8166881203651428

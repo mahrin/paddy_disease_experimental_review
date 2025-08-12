@@ -1,0 +1,2 @@
+model_name,test_loss,test_accuracy,test_f1_score
+original_vit_v2,0.17704835534095764,0.9559321999549866,0.9378891587257385

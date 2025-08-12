@@ -1,0 +1,2 @@
+model_name,test_loss,test_accuracy,test_f1_score
+DenseNet121,0.22075971961021423,0.9432973861694336,0.9392393827438354

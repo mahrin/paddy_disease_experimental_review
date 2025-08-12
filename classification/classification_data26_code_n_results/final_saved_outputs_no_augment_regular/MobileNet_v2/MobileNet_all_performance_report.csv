@@ -1,0 +1,16 @@
+,Metric Type,Value
+0,overall accuracy,0.93251
+1,Macro Precision,0.93718
+2,Macro Recall,0.91959
+3,Macro F1-Score,0.92787
+4,Macro FPR,0.0058
+5,Macro FNR,0.08041
+6,Macro FDR,0.06282
+7,Macro NPV,0.9943
+8,Weighted Precision,0.93299
+9,Weighted Recall,0.93251
+10,Weighted F1-Score,0.93245
+11,Weighted FPR,0.00793
+12,Weighted FNR,0.06749
+13,Weighted FDR,0.06701
+14,Weighted NPV,0.99338

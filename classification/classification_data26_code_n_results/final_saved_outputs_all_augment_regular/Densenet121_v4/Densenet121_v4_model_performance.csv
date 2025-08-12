@@ -1,0 +1,2 @@
+model_name,test_loss,test_accuracy,test_f1_score
+Densenet121_v4,0.1661178320646286,0.9596301913261414,0.9559524655342102

@@ -1,0 +1,2 @@
+model_name,test_loss,test_accuracy,test_f1_score
+Xception,0.2583909034729004,0.9423728585243225,0.9385894536972046

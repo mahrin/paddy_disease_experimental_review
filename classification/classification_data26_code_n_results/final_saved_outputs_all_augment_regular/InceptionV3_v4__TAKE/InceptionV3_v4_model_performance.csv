@@ -1,0 +1,2 @@
+model_name,test_loss,test_accuracy,test_f1_score
+InceptionV3_v4,0.22547513246536255,0.9482280015945435,0.9470797777175903
