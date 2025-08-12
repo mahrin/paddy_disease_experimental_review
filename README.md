@@ -52,4 +52,4 @@ research gap identification, and analysis of selected classification and segment
 ---
 
 ## 📈 Figures  
-Figures used in this article: [paper_figures](paper_figures)
+Figures used in this article: [View here](paper_figures)
