@@ -1,6 +1,6 @@
 # Citation Request ✅
 
-If you use any part of this dataset—including the data files, code, figures, or other resources—in your work, please cite the corresponding published paper(s) appropriately.
+If you use our dataset, code, figures, or any other part of this repository in your work, please cite the corresponding published paper(s) appropriately.
 
 **⚠️ Important:** Proper citation acknowledges the effort invested in creating these resources and supports the continued development and sharing of high-quality research tools.
 
