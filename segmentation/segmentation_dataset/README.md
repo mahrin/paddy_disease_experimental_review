@@ -1,4 +1,4 @@
-# Dataset Information ✅ 🆕🆕
+# Dataset Information ✅ 🆕
 
 This folder contains the mask-based paddy disease segmentation dataset, generated through image processing, and used in the segmentation component of our research.
 
