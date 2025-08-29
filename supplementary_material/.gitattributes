@@ -1,1 +1,2 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
+supplementary_material/supplementary_material.pdf filter=lfs diff=lfs merge=lfs -text
